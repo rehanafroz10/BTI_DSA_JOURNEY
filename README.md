@@ -8,10 +8,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0912-sort-an-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
