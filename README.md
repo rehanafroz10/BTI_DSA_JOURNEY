@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 | [0912-sort-an-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
