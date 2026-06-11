@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0059-spiral-matrix-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
