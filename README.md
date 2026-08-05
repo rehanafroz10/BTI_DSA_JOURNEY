@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0912-sort-an-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -96,4 +97,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
