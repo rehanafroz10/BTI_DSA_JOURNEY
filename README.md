@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
+| [0877-stone-game](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0048-rotate-image) |
+| [0877-stone-game](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +105,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0540-single-element-in-a-sorted-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rehanafroz10/BTI_DSA_JOURNEY/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
